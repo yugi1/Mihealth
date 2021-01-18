@@ -1,0 +1,147 @@
+.firstc, .secc {
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+    display: inline;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: #5cc22d;
+}
+h1 {
+    padding: 0;
+    display: inline;
+}
+.firstc {
+    color: #d13126;
+
+}
+.secc {
+    color: #5cc22d;
+}
+
+body {
+    background-color: #cccccc;
+    margin: 0;
+    background-image: url(brushed.png);
+    background-repeat: repeat;
+}
+.articleTitle {
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    padding-left: 80px;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color: #424242;
+    float: right;
+    padding-right: 80px;
+    padding-top: 10px; 
+}
+li {
+    display: inline;
+    padding: 10px;
+}
+.nav {
+    display: inline;
+    padding-left: 80px;
+}
+.backgroundNav {
+    background-color: white;
+    height: 100px;
+    padding-top: 15px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    width: 285px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+h4 {
+    padding-left: 80px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+.mainCon {
+    display: flex;
+    justify-content: space-between;
+}
+.content2 {
+    padding-top: 90px;
+    padding-right: 60px;
+
+}
+img {
+    padding: 8px;
+object-fit: cover;
+}
+h3 {
+    margin: 0;
+    padding-top: 60px;
+}
+.fresh {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    background-color: white;
+    padding: 10px;
+    left: 700px;
+    bottom: 125px;
+}
+.breakfast {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    background-color: #5cc22d;
+    padding: 10px;
+    left: 618px;
+    bottom: 62px;
+    width: 150px;
+    text-align: right;
+}
+.sweet {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    background-color: white;
+    bottom: 125px;
+    left: 1038px;
+}
+.lunch {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    bottom: 62px;
+    background-color: #5cc22d;
+    left: 959px;
+    width: 150px;
+    text-align: right;
+}
+.delicious {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    background-color: white;
+    bottom: 125px;
+    right: 68px;
+}
+.dinner {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    padding: 10px;
+    bottom: 62px;
+    background-color: #5cc22d;
+    right: 68px;
+    width: 150px;
+    text-align: right;
+}
